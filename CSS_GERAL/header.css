@@ -1,6 +1,7 @@
 header{
     background-color: rgb(77, 43, 20);
     text-align: center;
+    margin-bottom: 30px;
 }
 
 header>h1{
@@ -31,6 +32,12 @@ header>nav>ul>li>a{
     margin: 7px;
 }
 
-header>img{
-    
+div>img{
+    height: 230px;
+}
+
+div>button{
+    margin-top: -50px;
+    height: 350px;
+    color: aliceblue;
 }
